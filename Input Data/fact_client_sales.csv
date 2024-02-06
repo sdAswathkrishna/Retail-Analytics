@@ -1,0 +1,301 @@
+date,client_name,item,amount
+2023-01-01,Craftsman,Diary,720
+2023-01-03,RK Industries,Frame,300
+2023-01-04,Craftsman,lamp,700
+2023-01-04,Akshaya Constructions,Chalk,120
+2023-01-08,Bharat Benz,Sharpener,840
+2023-01-09,Akshaya Constructions,Lord Ganesh frame,1130
+2023-01-10,RK Industries,File,1240
+2023-01-11,Akshaya Constructions,Fountain Pen,610
+2023-01-13,Adwaith,Crayons,570
+2023-01-15,Adwaith,Pencil,720
+2023-01-16,Akshaya Constructions,Sharpener,1010
+2023-01-17,Bharat Benz,Scissors,1010
+2023-01-17,Bharat Benz,Lord Ganesh frame,1250
+2023-01-18,Adwaith,Brown cover,1270
+2023-01-18,Adwaith,Light gift,1430
+2023-01-19,Craftsman,two side frame,1120
+2023-01-19,RK Industries,Brown cover,340
+2023-01-20,Bharat Benz,two side frame,1390
+2023-01-23,Akshaya Constructions,teddy bear,470
+2023-01-23,Akshaya Constructions,Fountain Pen,580
+2023-01-24,Akshaya Constructions,Chalk,1090
+2023-01-24,Akshaya Constructions,ceramic gift,1500
+2023-01-25,Adwaith,Chart,1370
+2023-01-27,Bharat Benz,two side frame,1010
+2023-01-28,Craftsman,Whitener,220
+2023-01-28,Akshaya Constructions,Pencil,850
+2023-01-28,Adwaith,Long size note,1360
+2023-01-30,Bharat Benz,Color Pencil,440
+2023-01-30,Craftsman,gift cover,1470
+2023-02-01,Akshaya Constructions,Brown cover,1410
+2023-02-01,Craftsman,Map,490
+2023-02-01,Bharat Benz,ceramic gift,790
+2023-02-02,Adwaith,Sharpener,860
+2023-02-02,Bharat Benz,glass gift,140
+2023-02-04,Akshaya Constructions,Long size note,610
+2023-02-04,RK Industries,Scenery,740
+2023-02-04,Adwaith,White Board Markers,1110
+2023-02-05,Adwaith,Geometry box,590
+2023-02-06,Bharat Benz,File,350
+2023-02-07,Craftsman,Fountain Pen,540
+2023-02-07,RK Industries,Scale,1480
+2023-02-08,RK Industries,Diary,1030
+2023-02-09,Bharat Benz,Stapler,980
+2023-02-09,Adwaith,File,990
+2023-02-10,Bharat Benz,Refill pen,120
+2023-02-13,Craftsman,Crayons,500
+2023-02-13,Akshaya Constructions,Graph sheet,1130
+2023-02-13,Adwaith,Short size note,320
+2023-02-15,Akshaya Constructions,Frame,340
+2023-02-16,Craftsman,Frame,1060
+2023-02-18,Adwaith,Lord krishna statue,1380
+2023-02-19,Bharat Benz,Light gift,680
+2023-02-21,Bharat Benz,Pencil,790
+2023-02-22,Bharat Benz,Diary,530
+2023-02-22,RK Industries,two side frame,840
+2023-02-23,Adwaith,Scissors,470
+2023-02-23,Craftsman,Lord Ganesh frame,420
+2023-02-23,Bharat Benz,White Board Markers,610
+2023-02-24,Adwaith,Compass,1310
+2023-02-25,Craftsman,Scale,1030
+2023-02-26,Craftsman,Sketch,1320
+2023-02-26,Akshaya Constructions,Scissors,910
+2023-02-27,Craftsman,teddy bear,770
+2023-02-28,RK Industries,Lord Shiva statue,1260
+2023-03-01,Bharat Benz,Crayons,1130
+2023-03-01,Bharat Benz,Carbon sheet,200
+2023-03-02,RK Industries,Lord Ganesh frame,1110
+2023-03-04,Bharat Benz,Geometry box,890
+2023-03-06,Bharat Benz,Lord Ganesh frame,1490
+2023-03-06,Akshaya Constructions,Carbon sheet,1450
+2023-03-07,Bharat Benz,Compass,170
+2023-03-07,Adwaith,Diary,740
+2023-03-07,Bharat Benz,Diary,970
+2023-03-08,Bharat Benz,White Board Markers,480
+2023-03-08,Akshaya Constructions,Frame,1080
+2023-03-12,Adwaith,Compass,1380
+2023-03-13,Adwaith,Scissors,290
+2023-03-14,RK Industries,Lord Ganesh frame,650
+2023-03-17,RK Industries,lamp,1280
+2023-03-18,Craftsman,Map,420
+2023-03-18,Adwaith,Color Pencil,360
+2023-03-19,Akshaya Constructions,glass gift,1080
+2023-03-19,RK Industries,Graph sheet,1410
+2023-03-20,Bharat Benz,Compass,450
+2023-03-22,Akshaya Constructions,Compass,1060
+2023-03-22,RK Industries,Sharpener,1140
+2023-03-25,Bharat Benz,Sketch,920
+2023-04-04,Adwaith,Sharpener,1170
+2023-04-05,RK Industries,Light gift,210
+2023-04-06,RK Industries,Sharpener,1030
+2023-04-08,Akshaya Constructions,Carbon sheet,570
+2023-04-12,Bharat Benz,Light gift,1190
+2023-04-12,Bharat Benz,Sketch,190
+2023-04-14,Akshaya Constructions,Eraser,1100
+2023-04-17,Adwaith,Short size note,1100
+2023-04-18,Craftsman,ceramic gift,950
+2023-04-18,Craftsman,Scissors,1160
+2023-04-18,Akshaya Constructions,Diary,960
+2023-04-21,RK Industries,Chart,1140
+2023-04-21,Adwaith,Diary,760
+2023-04-23,Akshaya Constructions,clock gift,1120
+2023-04-25,Akshaya Constructions,gift cover,470
+2023-04-26,Akshaya Constructions,Tape,480
+2023-04-29,Craftsman,clock gift,870
+2023-04-30,RK Industries,Long size note,250
+2023-04-30,Adwaith,Whitener,780
+2023-05-01,Bharat Benz,Fountain Pen,150
+2023-05-02,Akshaya Constructions,Pencil,310
+2023-05-04,Bharat Benz,File,820
+2023-05-06,Bharat Benz,Pencil,1420
+2023-05-09,RK Industries,two side frame,310
+2023-05-09,RK Industries,Sketch,1320
+2023-05-13,Craftsman,Brown cover,760
+2023-05-13,Akshaya Constructions,glass gift,1010
+2023-05-15,Adwaith,Scale,680
+2023-05-16,Bharat Benz,Accounts note,1390
+2023-05-17,RK Industries,Compass,230
+2023-05-17,Adwaith,Geometry box,160
+2023-05-20,Adwaith,Geometry box,640
+2023-05-20,Akshaya Constructions,Chalk,530
+2023-05-22,RK Industries,CD Markers,1070
+2023-05-23,Adwaith,Long size note,920
+2023-05-23,RK Industries,Tape,310
+2023-05-23,RK Industries,Chalk,100
+2023-05-25,Bharat Benz,Sketch,330
+2023-05-27,RK Industries,Scissors,1050
+2023-05-27,Adwaith,Brown cover,820
+2023-05-31,Adwaith,CD Markers,1190
+2023-06-04,Adwaith,Color Pencil,720
+2023-06-06,Akshaya Constructions,Sharpener,240
+2023-06-06,Akshaya Constructions,Brown cover,710
+2023-06-06,Bharat Benz,Geometry box,350
+2023-06-07,Adwaith,Frame,940
+2023-06-08,Bharat Benz,Short size note,570
+2023-06-08,Adwaith,Scissors,680
+2023-06-08,RK Industries,teddy bear,1410
+2023-06-08,RK Industries,White Board Markers,1010
+2023-06-08,Bharat Benz,clock gift,780
+2023-06-10,Akshaya Constructions,Chart,1250
+2023-06-10,RK Industries,Lord krishna statue,520
+2023-06-10,Akshaya Constructions,Brown cover,560
+2023-06-12,Craftsman,Whitener,450
+2023-06-15,Adwaith,Whitener,1320
+2023-06-18,Craftsman,ceramic gift,700
+2023-06-19,Adwaith,clock gift,720
+2023-06-22,RK Industries,Compass,1240
+2023-06-24,Adwaith,Map,1380
+2023-06-25,Craftsman,Carbon sheet,870
+2023-06-27,Akshaya Constructions,File,1370
+2023-06-30,Bharat Benz,Pencil,1310
+2023-07-02,Akshaya Constructions,ceramic gift,810
+2023-07-02,Akshaya Constructions,Carbon sheet,740
+2023-07-02,Akshaya Constructions,Geometry box,940
+2023-07-03,RK Industries,Whitener,560
+2023-07-06,Akshaya Constructions,Eraser,600
+2023-07-06,Bharat Benz,Eraser,520
+2023-07-08,Craftsman,Chalk,760
+2023-07-08,Craftsman,Stapler,550
+2023-07-09,Craftsman,Stapler,830
+2023-07-11,Adwaith,White Board Markers,1370
+2023-07-11,Bharat Benz,gift cover,200
+2023-07-12,RK Industries,Map,1390
+2023-07-12,Bharat Benz,Chart,180
+2023-07-14,Akshaya Constructions,Pencil,1190
+2023-07-21,Akshaya Constructions,Graph sheet,1080
+2023-07-22,Akshaya Constructions,Map,1000
+2023-07-24,RK Industries,glass gift,650
+2023-07-24,Craftsman,clock gift,520
+2023-07-25,Adwaith,Sketch,1160
+2023-07-27,Akshaya Constructions,Carbon sheet,340
+2023-07-28,Adwaith,ceramic gift,1110
+2023-07-31,Akshaya Constructions,Fountain Pen,220
+2023-08-01,Akshaya Constructions,File,1200
+2023-08-01,Adwaith,gift cover,380
+2023-08-03,Adwaith,Long size note,640
+2023-08-03,Bharat Benz,Paper clip,1220
+2023-08-04,Craftsman,Frame,420
+2023-08-05,RK Industries,ceramic gift,960
+2023-08-09,RK Industries,two side frame,1120
+2023-08-09,Adwaith,File,1350
+2023-08-10,RK Industries,Light gift,1080
+2023-08-11,Craftsman,Sharpener,240
+2023-08-16,Craftsman,ceramic gift,1440
+2023-08-17,Bharat Benz,Stapler,1370
+2023-08-18,Akshaya Constructions,Stapler,880
+2023-08-20,Bharat Benz,teddy bear,1470
+2023-08-24,Craftsman,Carbon sheet,430
+2023-08-24,Bharat Benz,Short size note,1280
+2023-08-24,RK Industries,Paper clip,180
+2023-08-25,RK Industries,glass gift,790
+2023-08-26,Akshaya Constructions,Light gift,1070
+2023-08-27,Craftsman,Short size note,280
+2023-08-29,RK Industries,Whitener,260
+2023-08-30,Adwaith,Accounts note,640
+2023-08-31,RK Industries,Lord Ganesh frame,290
+2023-09-01,Akshaya Constructions,Refill pen,900
+2023-09-02,Akshaya Constructions,Chalk,1110
+2023-09-03,Bharat Benz,Light gift,210
+2023-09-09,Bharat Benz,Tape,430
+2023-09-10,RK Industries,Map,1220
+2023-09-10,Craftsman,lamp,750
+2023-09-12,Craftsman,Whitener,130
+2023-09-12,Craftsman,Lord krishna statue,910
+2023-09-13,Craftsman,Eraser,900
+2023-09-15,Adwaith,Pencil,550
+2023-09-15,Bharat Benz,Graph sheet,1460
+2023-09-16,Bharat Benz,Whitener,1170
+2023-09-17,Adwaith,clock gift,940
+2023-09-17,Akshaya Constructions,Geometry box,920
+2023-09-17,Akshaya Constructions,Light gift,910
+2023-09-19,Craftsman,Light gift,930
+2023-09-22,Akshaya Constructions,Lord Shiva statue,1130
+2023-09-24,RK Industries,Long size note,1140
+2023-09-24,Craftsman,Pencil,560
+2023-09-27,Adwaith,Whitener,1440
+2023-09-27,Adwaith,Fountain Pen,950
+2023-10-01,Bharat Benz,Graph sheet,800
+2023-10-02,Akshaya Constructions,Lord krishna statue,180
+2023-10-03,Craftsman,teddy bear,850
+2023-10-05,Bharat Benz,Refill pen,220
+2023-10-05,Craftsman,glass gift,430
+2023-10-05,Akshaya Constructions,clock gift,1280
+2023-10-05,Craftsman,Scenery,1450
+2023-10-05,Bharat Benz,ceramic gift,910
+2023-10-06,Bharat Benz,Stapler,740
+2023-10-07,RK Industries,Scale,480
+2023-10-07,Bharat Benz,File,1220
+2023-10-07,Bharat Benz,Tape,820
+2023-10-07,Akshaya Constructions,Diary,560
+2023-10-07,Akshaya Constructions,Brown cover,980
+2023-10-07,Craftsman,Sketch,950
+2023-10-09,Adwaith,Brown cover,1100
+2023-10-10,Craftsman,Geometry box,1270
+2023-10-10,Bharat Benz,lamp,750
+2023-10-10,Adwaith,Refill pen,680
+2023-10-14,Craftsman,Light gift,750
+2023-10-18,Craftsman,clock gift,490
+2023-10-20,Craftsman,Brown cover,1350
+2023-10-24,Adwaith,Lord krishna statue,1400
+2023-10-25,Adwaith,Whitener,1450
+2023-10-25,Craftsman,Scissors,470
+2023-10-26,RK Industries,Refill pen,1170
+2023-10-26,Craftsman,Paper clip,910
+2023-10-27,Craftsman,Pencil,810
+2023-10-28,Adwaith,Pencil,1060
+2023-10-28,Akshaya Constructions,Graph sheet,580
+2023-10-30,RK Industries,Sharpener,120
+2023-10-30,Craftsman,Refill pen,1250
+2023-10-31,Bharat Benz,Stapler,950
+2023-11-02,Craftsman,Chalk,240
+2023-11-02,Adwaith,Map,310
+2023-11-03,Bharat Benz,Carbon sheet,1290
+2023-11-04,RK Industries,White Board Markers,790
+2023-11-08,Adwaith,glass gift,470
+2023-11-09,Adwaith,Carbon sheet,410
+2023-11-09,Craftsman,Long size note,1340
+2023-11-14,RK Industries,gift cover,880
+2023-11-15,Akshaya Constructions,Stapler,250
+2023-11-15,Bharat Benz,glass gift,390
+2023-11-16,Craftsman,Color Pencil,1250
+2023-11-17,Adwaith,Scissors,180
+2023-11-17,Craftsman,Compass,690
+2023-11-19,Craftsman,teddy bear,450
+2023-11-21,RK Industries,Stapler,940
+2023-11-21,Bharat Benz,Refill pen,790
+2023-11-23,Adwaith,gift cover,380
+2023-11-23,Craftsman,File,220
+2023-11-26,RK Industries,Chart,810
+2023-11-27,Akshaya Constructions,ceramic gift,1490
+2023-11-28,Bharat Benz,Whitener,140
+2023-12-01,Bharat Benz,Whitener,1400
+2023-12-01,Adwaith,Eraser,1440
+2023-12-02,Craftsman,Long size note,750
+2023-12-02,Bharat Benz,White Board Markers,570
+2023-12-03,Craftsman,Scissors,1420
+2023-12-04,RK Industries,White Board Markers,1100
+2023-12-04,Craftsman,Chalk,500
+2023-12-05,Akshaya Constructions,gift cover,1240
+2023-12-05,Bharat Benz,Whitener,1480
+2023-12-06,Craftsman,White Board Markers,810
+2023-12-06,Akshaya Constructions,File,1100
+2023-12-10,Bharat Benz,Pencil,660
+2023-12-10,Adwaith,File,200
+2023-12-10,Adwaith,Lord Shiva statue,1440
+2023-12-11,Adwaith,Carbon sheet,1190
+2023-12-16,RK Industries,Brown cover,560
+2023-12-16,Adwaith,Scissors,630
+2023-12-17,Bharat Benz,clock gift,300
+2023-12-19,Adwaith,Diary,690
+2023-12-19,Bharat Benz,Map,120
+2023-12-20,Bharat Benz,File,290
+2023-12-23,Bharat Benz,Scenery,290
+2023-12-26,Adwaith,teddy bear,510
+2023-12-27,Akshaya Constructions,Map,740
+2023-12-28,Akshaya Constructions,Eraser,300
+2023-12-30,RK Industries,Sketch,660
+2023-12-30,Adwaith,Scale,390
+2023-12-30,Adwaith,Map,800
+2023-12-30,Bharat Benz,Whitener,500
+2023-12-31,Bharat Benz,Pencil,1310

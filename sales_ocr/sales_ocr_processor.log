@@ -1,0 +1,118 @@
+2025-07-03 07:29:09,769 - __main__ - INFO - Initialized Vision API client with service account credentials
+2025-07-03 07:29:10,406 - __main__ - INFO - Extracted text from test_credentials.png with confidence 0.00
+2025-07-03 07:29:10,414 - __main__ - INFO - Initialized Vision API client with service account credentials
+2025-07-03 07:29:10,414 - __main__ - INFO - Starting sales record processing...
+2025-07-03 07:29:10,414 - __main__ - INFO - Found 2 image files to process
+2025-07-03 07:29:10,414 - __main__ - INFO - Processing image: images\sample_sales.jpeg
+2025-07-03 07:29:10,827 - __main__ - INFO - Preprocessed image saved: images\sample_sales_processed.jpeg
+2025-07-03 07:29:11,566 - __main__ - INFO - Extracted text from images\sample_sales_processed.jpeg with confidence 0.00
+2025-07-03 07:29:11,570 - __main__ - INFO - Parsed record for sample_sales.jpeg: Date=01/11/2021, Amount=27.0
+2025-07-03 07:29:11,570 - __main__ - INFO - Processing image: images\sample_sales.jpeg
+2025-07-03 07:29:11,999 - __main__ - INFO - Preprocessed image saved: images\sample_sales_processed.jpeg
+2025-07-03 07:29:12,567 - __main__ - INFO - Extracted text from images\sample_sales_processed.jpeg with confidence 0.00
+2025-07-03 07:29:12,569 - __main__ - INFO - Parsed record for sample_sales.jpeg: Date=01/11/2021, Amount=27.0
+2025-07-03 07:29:12,578 - __main__ - INFO - Exported 2 records to sales_data.csv
+2025-07-03 07:29:12,578 - __main__ - INFO - Export summary: 2 dates, 2 amounts, avg confidence: 0.00
+2025-07-03 07:29:12,578 - __main__ - INFO - Processing completed successfully!
+2025-07-03 07:33:00,213 - __main__ - INFO - Initialized Vision API client with service account credentials
+2025-07-03 07:33:00,609 - __main__ - INFO - Extracted text from test_credentials.png with confidence 0.00
+2025-07-03 07:33:00,614 - __main__ - INFO - Initialized Vision API client with service account credentials
+2025-07-03 07:33:00,614 - __main__ - INFO - Starting sales record processing...
+2025-07-03 07:33:00,618 - __main__ - INFO - Found 1 image files to process
+2025-07-03 07:33:00,618 - __main__ - INFO - Processing image: images\sample_sales.jpeg
+2025-07-03 07:33:01,069 - __main__ - INFO - Preprocessed image saved: images\sample_sales_processed.jpeg
+2025-07-03 07:33:02,066 - __main__ - INFO - Extracted text from images\sample_sales_processed.jpeg with confidence 0.00
+2025-07-03 07:33:02,068 - __main__ - INFO - Parsed record for sample_sales.jpeg: Date=01/11/2021, Amount=27.0
+2025-07-03 07:33:02,075 - __main__ - INFO - Exported 1 records to sales_data.csv
+2025-07-03 07:33:02,075 - __main__ - INFO - Export summary: 1 dates, 1 amounts, avg confidence: 0.00
+2025-07-03 07:33:02,077 - __main__ - INFO - Processing completed successfully!
+2025-07-03 07:39:53,372 - __main__ - INFO - Initialized Vision API client with service account credentials
+2025-07-03 07:39:53,798 - __main__ - INFO - Extracted text from test_credentials.png with confidence 0.00
+2025-07-03 07:39:53,811 - __main__ - INFO - Initialized Vision API client with service account credentials
+2025-07-03 07:39:53,813 - __main__ - INFO - Starting sales record processing...
+2025-07-03 07:39:53,817 - __main__ - INFO - Found 1 image files to process
+2025-07-03 07:39:53,817 - __main__ - INFO - Processing image: images\sample_sales.jpeg
+2025-07-03 07:39:54,298 - __main__ - INFO - Preprocessed image saved: images\sample_sales_processed.jpeg
+2025-07-03 07:39:55,245 - __main__ - INFO - Extracted text from images\sample_sales_processed.jpeg with confidence 0.00
+2025-07-03 07:39:55,261 - __main__ - INFO - Exported 1 records to sales_data.csv
+2025-07-03 07:39:55,263 - __main__ - INFO - Processing completed successfully!
+2025-07-03 07:46:29,925 - __main__ - INFO - Initialized Vision API client with service account credentials
+2025-07-03 07:46:30,299 - __main__ - INFO - Extracted text from test_credentials.png with confidence 0.00
+2025-07-03 07:46:30,304 - __main__ - INFO - Initialized Vision API client with service account credentials
+2025-07-03 07:46:30,304 - __main__ - INFO - Starting sales record processing...
+2025-07-03 07:46:30,307 - __main__ - INFO - Found 1 image files to process
+2025-07-03 07:46:30,309 - __main__ - INFO - Processing image: images\sample_sales.jpeg
+2025-07-03 07:46:30,764 - __main__ - INFO - Preprocessed image saved: images\sample_sales_processed.jpeg
+2025-07-03 07:46:31,747 - __main__ - INFO - Extracted text from images\sample_sales_processed.jpeg with confidence 0.00
+2025-07-03 07:46:31,751 - __main__ - ERROR - Error exporting to CSV: [Errno 13] Permission denied: 'sales_data.csv'
+2025-07-03 07:46:31,753 - __main__ - ERROR - Processing failed: [Errno 13] Permission denied: 'sales_data.csv'
+2025-07-03 07:47:11,671 - __main__ - INFO - Initialized Vision API client with service account credentials
+2025-07-03 07:47:12,284 - __main__ - INFO - Extracted text from test_credentials.png with confidence 0.00
+2025-07-03 07:47:12,300 - __main__ - INFO - Initialized Vision API client with service account credentials
+2025-07-03 07:47:12,306 - __main__ - INFO - Starting sales record processing...
+2025-07-03 07:47:12,309 - __main__ - INFO - Found 3 image files to process
+2025-07-03 07:47:12,309 - __main__ - INFO - Processing image: images\processed_sample_sales.jpeg
+2025-07-03 07:47:12,754 - __main__ - INFO - Preprocessed image saved: images\processed_sample_sales_processed.jpeg
+2025-07-03 07:47:13,728 - __main__ - INFO - Extracted text from images\processed_sample_sales_processed.jpeg with confidence 0.00
+2025-07-03 07:47:13,738 - __main__ - INFO - Processing image: images\sample_sales.jpeg
+2025-07-03 07:47:14,120 - __main__ - INFO - Preprocessed image saved: images\sample_sales_processed.jpeg
+2025-07-03 07:47:14,697 - __main__ - INFO - Extracted text from images\sample_sales_processed.jpeg with confidence 0.00
+2025-07-03 07:47:14,697 - __main__ - INFO - Processing image: images\sample_sales_processed.jpeg
+2025-07-03 07:47:15,142 - __main__ - INFO - Preprocessed image saved: images\sample_sales_processed_processed.jpeg
+2025-07-03 07:47:15,656 - __main__ - INFO - Extracted text from images\sample_sales_processed_processed.jpeg with confidence 0.00
+2025-07-03 07:47:15,660 - __main__ - INFO - Exported 3 records to sales_data.csv
+2025-07-03 07:47:15,660 - __main__ - INFO - Processing completed successfully!
+2025-07-03 09:29:52,610 - INFO - Initialized Vision API client
+2025-07-03 09:29:52,610 - INFO - Starting sales record processing...
+2025-07-03 09:29:52,610 - INFO - Found 2 image files to process
+2025-07-03 09:29:53,071 - INFO - Preprocessed image saved: preprocessed\preprocessed_sample_sales.jpeg
+2025-07-03 09:29:53,484 - INFO - Preprocessed image saved: preprocessed\preprocessed_sample_sales.jpeg
+2025-07-03 09:29:53,484 - INFO - Processing 2 preprocessed images
+2025-07-03 09:29:54,394 - INFO - Extracted text from preprocessed\preprocessed_sample_sales.jpeg
+2025-07-03 09:29:54,396 - INFO - Processed preprocessed\preprocessed_sample_sales.jpeg: date=01/11/2021, sales=27.0
+2025-07-03 09:29:54,906 - INFO - Extracted text from preprocessed\preprocessed_sample_sales.jpeg
+2025-07-03 09:29:54,906 - INFO - Processed preprocessed\preprocessed_sample_sales.jpeg: date=01/11/2021, sales=27.0
+2025-07-03 09:29:54,913 - INFO - Successfully wrote 2 records to sales_data.csv
+2025-07-03 09:29:54,913 - INFO - Processing completed successfully!
+2025-07-03 09:32:37,486 - INFO - Initialized Vision API client
+2025-07-03 09:32:37,486 - INFO - Starting sales record processing...
+2025-07-03 09:32:37,486 - INFO - Found 1 image files to process
+2025-07-03 09:32:37,907 - INFO - Preprocessed image saved: preprocessed\preprocessed_sample_sales.jpeg
+2025-07-03 09:32:37,907 - INFO - Processing 1 preprocessed images
+2025-07-03 09:32:38,754 - INFO - Extracted text from preprocessed\preprocessed_sample_sales.jpeg
+2025-07-03 09:32:38,754 - INFO - Processed preprocessed\preprocessed_sample_sales.jpeg: date=01/11/2021, sales=27.0
+2025-07-03 09:32:38,758 - INFO - Successfully wrote 1 records to sales_data.csv
+2025-07-03 09:32:38,758 - INFO - Processing completed successfully!
+2025-07-03 09:39:02,017 - INFO - Initialized Vision API client
+2025-07-03 09:39:02,017 - INFO - Starting sales record processing...
+2025-07-03 09:39:02,017 - INFO - Found 1 image files to process
+2025-07-03 09:39:02,437 - INFO - Preprocessed image saved: preprocessed\preprocessed_sample_sales.jpeg
+2025-07-03 09:39:02,437 - INFO - Processing 1 preprocessed images
+2025-07-03 09:39:03,505 - INFO - Extracted text from preprocessed\preprocessed_sample_sales.jpeg
+2025-07-03 09:39:03,509 - INFO - Processed preprocessed\preprocessed_sample_sales.jpeg: found 14 records
+2025-07-03 09:39:03,509 - INFO - Successfully wrote 14 records to sales_data.csv
+2025-07-03 09:39:03,512 - INFO - Processing completed successfully!
+2025-07-03 09:46:23,257 - INFO - Initialized Vision API client
+2025-07-03 09:46:23,257 - INFO - Starting sales record processing...
+2025-07-03 09:46:23,258 - INFO - Found 2 image files to process
+2025-07-03 09:46:23,678 - INFO - Preprocessed image saved: preprocessed\preprocessed_sample_sales.jpeg
+2025-07-03 09:46:24,044 - INFO - Preprocessed image saved: preprocessed\preprocessed_sample_sales.jpeg
+2025-07-03 09:46:24,044 - INFO - Processing 2 preprocessed images
+2025-07-03 09:46:24,939 - INFO - Extracted text from preprocessed\preprocessed_sample_sales.jpeg
+2025-07-03 09:46:24,939 - INFO - Detected context - Month: 11, Year: 2021
+2025-07-03 09:46:24,943 - INFO - Processed preprocessed\preprocessed_sample_sales.jpeg: found 42 records
+2025-07-03 09:46:25,519 - INFO - Extracted text from preprocessed\preprocessed_sample_sales.jpeg
+2025-07-03 09:46:25,520 - INFO - Detected context - Month: 11, Year: 2021
+2025-07-03 09:46:25,520 - INFO - Processed preprocessed\preprocessed_sample_sales.jpeg: found 40 records
+2025-07-03 09:46:25,522 - INFO - Successfully wrote 82 records to sales_data.csv
+2025-07-03 09:46:25,522 - INFO - Processing completed successfully!
+2025-07-03 09:46:44,046 - INFO - Initialized Vision API client
+2025-07-03 09:46:44,046 - INFO - Starting sales record processing...
+2025-07-03 09:46:44,046 - INFO - Found 1 image files to process
+2025-07-03 09:46:44,508 - INFO - Preprocessed image saved: preprocessed\preprocessed_sample_sales.jpeg
+2025-07-03 09:46:44,510 - INFO - Processing 1 preprocessed images
+2025-07-03 09:46:45,316 - INFO - Extracted text from preprocessed\preprocessed_sample_sales.jpeg
+2025-07-03 09:46:45,316 - INFO - Detected context - Month: 11, Year: 2021
+2025-07-03 09:46:45,316 - INFO - Processed preprocessed\preprocessed_sample_sales.jpeg: found 42 records
+2025-07-03 09:46:45,329 - INFO - Successfully wrote 42 records to sales_data.csv
+2025-07-03 09:46:45,331 - INFO - Processing completed successfully!
